@@ -28,9 +28,8 @@ turning those concepts into working RTL designs.
 - 🔹 Digital System Design
 - 🔹 Memory Architectures
 - 🔹 Computer Architecture
-- 🔹 AMBA Protocols
 - 🔹 VLSI Design
-- 🔹 Hardware Verification
+  
 
 ---
 
@@ -56,8 +55,7 @@ turning those concepts into working RTL designs.
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-EF2B2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cadence%20Virtuoso-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/PSpice-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge"/>
+
 
 </p>
 
@@ -66,7 +64,7 @@ turning those concepts into working RTL designs.
 <p align="left">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 
 </p>
 
