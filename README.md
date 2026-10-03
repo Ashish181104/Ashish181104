@@ -1,100 +1,114 @@
-# Hi 👋, I'm Ashish Kumar Kashyap
+# 👋 Hi, I'm Ashish Kumar Kashyap
 
-### Electronics & Communication Engineering Student | RTL & FPGA Enthusiast
+<div align="center">
 
-🎓 B.Tech ECE @ **MNNIT Allahabad**
+## Electronics & Communication Engineering Student
+### RTL Design • FPGA • Digital Systems • VLSI
 
-💻 Interested in **Digital Design, RTL Design, FPGA & VLSI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=ECE+Student+at+MNNIT+Allahabad;RTL+%26+FPGA+Enthusiast;Verilog+Hardware+Designer;Exploring+Digital+Systems+%26+VLSI" />
 
-🔧 Building hardware systems using **Verilog & Xilinx Vivado**
-
-🚀 Currently working on **Dual-Port RAM and AMBA-based RTL architectures**
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Electronics & Communication Engineering student at MNNIT Allahabad
-- 💡 Interested in Digital Electronics, RTL Design, FPGA and Computer Architecture
-- 🔧 Currently developing modular Verilog RTL projects
-- 🧠 Learning industry-oriented hardware design and verification
-- 🚀 Exploring memory architectures, AMBA protocols and FPGA-based systems
-- 📚 Always learning by building and testing real hardware designs
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 🔹 Hardware & RTL
+I'm **Ashish Kumar Kashyap**, an Electronics & Communication Engineering
+student at **MNNIT Allahabad** with a strong interest in digital hardware,
+RTL design, FPGA architectures, and VLSI.
 
-![Verilog](https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-6A5ACD?style=for-the-badge)
-![RTL Design](https://img.shields.io/badge/RTL%20Design-FF6F00?style=for-the-badge)
-![Digital Design](https://img.shields.io/badge/Digital%20Design-00897B?style=for-the-badge)
+I enjoy understanding how digital systems work at the hardware level and
+turning those concepts into working RTL designs.
 
-### 🔹 Tools
+### 🔍 My current areas of interest
 
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-EF3B24?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-4B0082?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PSpice](https://img.shields.io/badge/PSpice-555555?style=for-the-badge)
-
-### 🔹 Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+- 🔹 RTL Design
+- 🔹 Verilog HDL
+- 🔹 FPGA Architecture
+- 🔹 Digital System Design
+- 🔹 Memory Architectures
+- 🔹 Computer Architecture
+- 🔹 AMBA Protocols
+- 🔹 VLSI Design
+- 🔹 Hardware Verification
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Technical Skills
 
-### 🔹 [Industrial Dual-Port RAM](https://github.com/Ashish181104/Dual-port-ram)
+## 💻 Hardware & RTL
 
-Asynchronous dual-port RAM subsystem designed in Verilog with modular RTL architecture.
+<p align="left">
 
-**Key concepts:**
+<img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTL%20Design-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Design-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AMBA-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLSI-8E24AA?style=for-the-badge"/>
 
-- True Dual-Port RAM
+</p>
+
+## 🛠️ EDA & Simulation Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-EF2B2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PSpice-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge"/>
+
+</p>
+
+## 👨‍💻 Programming
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔷 Industrial Dual-Port RAM
+
+### Verilog RTL • FPGA • Memory Architecture
+
+An industrial-style asynchronous dual-port RAM subsystem designed using
+modular Verilog RTL.
+
+### 🔧 Key Features
+
+- True Dual-Port RAM architecture
+- Independent memory ports
 - Independent clock domains
 - Synchronizer circuits
 - Collision detection
 - VALID/READY handshake
-- FPGA BRAM inference
-- Modular RTL design
-- Behavioral simulation
+- FPGA BRAM-friendly RTL
+- Parameterized data width and memory depth
+- Modular RTL hierarchy
+- Simulation testbench
 
----
-
-### 🔹 [AMBA AHB Single-Master 4-Slave Interconnect](https://github.com/Ashish181104/AMBA-AHB-Single-Master-4-Slave-Interconnect)
-
-Verilog implementation of an AMBA AHB-Lite style interconnect.
-
-**Includes:**
-
-- Single Master
-- Four Slaves
-- Address Decoder
-- Multiplexer
-- FSM-based Master
-- Memory-mapped Slaves
-- Testbench Verification
-- AHB signals such as `HTRANS`, `HREADY` and `HRESP`
-
----
-
-## 📚 Currently Learning
+### 🧠 Concepts Explored
 
 ```text
-Digital Electronics
-        ↓
-Verilog HDL
-        ↓
-RTL Design
-        ↓
-FPGA Architecture
-        ↓
-Memory Systems
-        ↓
-AMBA Protocols
-        ↓
-Advanced Digital Design
+Memory Fundamentals
+       ↓
+Single-Port RAM
+       ↓
+Dual-Port RAM
+       ↓
+True Dual-Port RAM
+       ↓
+Collision Detection
+       ↓
+Synchronizer Circuits
+       ↓
+FPGA BRAM Inference
+       ↓
+Industrial RTL Architecture
