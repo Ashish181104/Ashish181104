@@ -43,7 +43,6 @@ turning those concepts into working RTL designs.
 <img src="https://img.shields.io/badge/RTL%20Design-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Digital%20Design-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AMBA-3949AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VLSI-8E24AA?style=for-the-badge"/>
 
 </p>
